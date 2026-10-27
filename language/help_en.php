@@ -44,7 +44,7 @@ return [
         'The plugin adds <code>fa</code> to the lists only while it is enabled. Check it in <strong>Plugins</strong>. The words are in the folder of the plugin, so there is no <code>fa</code> folder in the <code>lang</code> folder of Kleeja, and none is needed.',
     'LANG_FA_HELP_FAQ_Q_2' => 'Some texts are still in English. Why?',
     'LANG_FA_HELP_FAQ_A_2' =>
-        'The texts that you wrote yourself aren\'t translated: the name of your service, the <strong>Welcome message</strong>, the <strong>Terms</strong> and the <strong>Extra Templates</strong>. Write them in Persian. Other plugins show their words in Persian only when they come with a Persian translation.',
+        'The texts that you wrote yourself aren\'t translated: the name of your service, the <strong>Welcome message</strong>, the <strong>Terms</strong> and the <strong>Extra Templates</strong>. Write them in Persian. This plugin translates the plugins of the Kleeja store too, their pages and their guides on this page. Another plugin shows its words in Persian only when it comes with a Persian translation.',
     'LANG_FA_HELP_FAQ_Q_3' => 'The control panel is in Persian now. How do I switch it back?',
     'LANG_FA_HELP_FAQ_A_3' =>
         'Follow the same steps and choose <code>en</code> or <code>ar</code>. In Persian, the menu item is <strong>تنظیمات</strong>, the page is <strong>تنظیمات رابط و طراحی</strong>, the list is <strong>زبان</strong> and the button is <strong>به‌روزرسانی تنظیمات</strong>.',
